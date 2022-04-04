@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=akring"/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=akring"/> -->
 
-🔭 I’m currently working on SwiftUI.
+<p><b>I'm Akring</b> , an iOS / macOS / Frontend Developer. Currently I'm working on SwiftUI and Flutter.</p>
+<p>I'm focus on developing elegant and concise apps, and also be happy to be part of open source projects.</p>
 
-🚀 My blog: [Akring's Blog](https://akringblog.com)
+💻 My project: [Star Order](https://starorder.app)
 
+🚀 My blog:    [Akring's Blog](https://akring.com)
 
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,js,vue,tailwind,docker)](https://skillicons.dev)
