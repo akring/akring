@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 🚀 My blog:    [Akring's Blog](https://akring.com)
 
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,js,vue,tailwind,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,ts,lua,vue,tailwind,docker)](https://skillicons.dev)
