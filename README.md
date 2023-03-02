@@ -20,8 +20,14 @@ Here are some ideas to get you started:
 <p><b>I'm Akring</b> , an iOS / macOS / Frontend Developer. Currently I'm working on SwiftUI and Flutter.</p>
 <p>I'm focus on developing elegant and concise apps, and also be happy to be part of open source projects.</p>
 
-💻 My project: [Star Order](https://starorder.akring.com)
+🏠 My homepage: [Akring](https://akring.com)
 
-🚀 My blog:    [Akring's Blog](https://akring.com)
+💻 My project:
+
+ [Star Order - Manage you GitHub Stars like a pro](https://starorder.akring.com)
+ 
+ [Fasting - Live a healthy life](https://fasting.akring.com)
+
+🚀 My blog: [Akring's Blog](https://blog.akring.com)
 
 [![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,ts,lua,vue,tailwind,docker)](https://skillicons.dev)
