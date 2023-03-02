@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🏠 My homepage: [Akring](https://akring.com)
 
-💻 My project: [🌟 Star Order](https://starorder.akring.com)   [🥑 Fasting](https://fasting.akring.com)
+💻 My project: [🌟 Star Order](https://starorder.akring.com)  |  [🥑 Fasting](https://fasting.akring.com)
 
 🚀 My blog: [Akring's Blog](https://blog.akring.com)
 
